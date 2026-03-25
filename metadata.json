@@ -1,0 +1,5 @@
+{
+  "name": "Generative Mountain Scape",
+  "description": "A progressive generative art piece featuring mountains and clouds created with p5.js and noise algorithms.",
+  "requestFramePermissions": []
+}
